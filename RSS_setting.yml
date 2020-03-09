@@ -1,0 +1,11 @@
+# RSSのURL
+RSS_URL : https://this.kiji.is/-/feed/posts/rss?source_id=603806532955636833
+# 過去のすべてのエントリーが入ったjsonファイルの場所
+# このファイルと新規でRSSから実行したものを比較して差分を作成する
+older_entry_list : ./kyodo_articles/data/all_entries.json
+# 新着で指定のキーワードがエントリー名に入っている記事のURLリスト
+target_entry_list : ./kyodo_articles/data/key_words_include.json
+# 新着で指定のキーワードがエントリー名に入ってない記事のURLリストとしてのjson
+not_target_entry_list: ./kyodo_articles/data/key_words_not_include.json
+# 検索するキーワードのリストが入ったファイル
+key_word_list: key_word_list.txt
