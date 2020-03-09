@@ -7,7 +7,7 @@ Python3.7以上で(開発環境は3.8)
 
 windowsはscrapyをインストールするときVisual C++のコンパイラが必要なので注意  
 ダウンロード  
-https://visualstudio.microsoft.com/ja/downloads/
+https://visualstudio.microsoft.com/ja/downloads/  
 Build Tools for Visual Studioを選んでダウンロード  
 
 windowsはstart_scraping.batをタスクスケジューラーに  
