@@ -1,9 +1,9 @@
 Python3.7以上で(開発環境は3.8)  
 必要なパッケージ
 - scrapy
-- pands
+- pandas
 - pyyaml
-- feedparaser
+- feedparser
 
 windowsはscrapyをインストールするときVisual C++のコンパイラが必要なので注意  
 ダウンロード  
